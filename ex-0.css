@@ -62,11 +62,19 @@ span {
  
  .el7 {
     background-color:  #0A89A6;
+    
+    grid-row: span 2;
+ }
+ .el7 span{
+    background-image:url('descarga.jpg') ;
+    background-position: center    ;
  }
  
  
  .el8 {
     background-color: #C8E6C9;
+    
+    grid-column: span 2;
  }
  
  
